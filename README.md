@@ -74,5 +74,5 @@ Credentials     ONS Accredited Researcher · CLEAR J-PAL MSDC (2023)
 
 ## Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-madhuri--agarwal--devecon-0A66C2?style=flat&logo=linkedin)](linkedin.com/in/madhuri-agarwal-econ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-madhuri--agarwal--devecon-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/madhuri-agarwal-econ?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8bnZgy8ARbqaJbZMmys%2Fpw%3D%3D)
 [![Email](https://img.shields.io/badge/Email-madhuri.deveco@gmail.com-D14836?style=flat&logo=gmail)](mailto:madhuri.deveco@gmail.com)
