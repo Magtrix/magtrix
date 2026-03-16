@@ -27,18 +27,6 @@ Research on how education shapes women's lives — from reducing domestic violen
 
 ---
 
-## Research
-
-| Paper | Method | Status |
-|-------|--------|--------|
-| Education and Domestic Violence: Evidence from a School Construction Program in India | Regression discontinuity | Under review, *JPOP* |
-| Mothers and Daughters: Inheritance Reforms and Child Investment in India | Triple difference-in-differences | Under review, *UNU-WIDER Special Issue* |
-| Unlocking Potential: Credit to Women and Household Welfare in Rural India | Instrumental variables | Working paper |
-| Look No Farther: The Impact of Local Contract Teachers on Student Outcomes | Value-added modelling | Working paper |
-| Retain or Not to Retain? Effects of Automatic Promotion on Student Outcomes | Difference-in-differences | UNESCO GEM Fellowship, 2020 |
-
----
-
 ## Methods & Tools
 
 ```
